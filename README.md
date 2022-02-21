@@ -1,9 +1,9 @@
 # [Tutorial] WAMIS OpenAPI를 이용한 수문관측소 위치 시각화
 
-## 1. 바로실습해보기 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wateround22/Tutorial-Hydrology-data-collection-using-WAMIS-OpenAPI/HEAD)
+## 1. 바로실습해보기 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wateround22/Tutorial-Visualization-of-hydrological-data-observation-station-using-WAMIS-OpenAPI/HEAD)
   - 바인더 아이콘을 클릭하면, 주피터 노트북 환경에서 코드를 실습할 수 있습니다.
   - 바인더 환경구성에 약 5분이 소요됩니다. 다만, 본 실습코드에서 직접 WAMIS 오픈API호출은 되지 않습니다.
-  - 
+
 ## 2. 국가수자원관리종합정보시스템(WAMIS)
  - 환경부 산하 한강홍수통제소에서 관리중인 시스템으로 환경부, 기상청, 한국수자원공사, 한국농어촌공사 등을 통해 수집된 **강수량, 수위, 기상 등 수문데이터를 통합하여 OpenAPI 방식으로 제공**
    - URL : [http://www.wamis.go.kr/](http://www.wamis.go.kr/)
